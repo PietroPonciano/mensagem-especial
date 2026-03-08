@@ -61,8 +61,8 @@ export default function App() {
         <BloomingFlower isBlooming={flowerBloomed} />
         <LoveLetter
           isOpen={letterOpen}
-          message="Voce e a razao do meu sorriso. Cada momento ao seu lado e um presente que guardo no coracao."
-          signature="Com todo meu amor"
+          message="Você é especial e inspira quem está ao seu redor. Sua presença torna o mundo mais leve e cheio de esperança."
+          signature="Feliz Dia da Mulher"
         />
       </div>
 
